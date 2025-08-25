@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+node_modules/
+npm-debug.log*
+.env
+.env.local
+.env.development.local
+.vscode/
+.idea/
+*.swp
